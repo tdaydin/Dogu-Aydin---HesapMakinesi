@@ -77,28 +77,7 @@ namespace HesapMakinesi
             }
             return (result);
         }
-
-        static double Add(double x, double y)
-        {
-            return (x + y);
-        }
-
-        static double Subst(double x, double y)
-        {
-            return (x - y);
-        }
-
-        static double Div(double x, double y)
-        {
-            return (x / y);
-        }
-
-        static double Multip(double x, double y)
-        {
-            return (x * y);
-        }
     }
-
 }
 
         
